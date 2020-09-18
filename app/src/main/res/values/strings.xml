@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">learn_two</string>
+    <string name="edit_message">请输入VIN</string>
+    <string name="button_send">连接</string>
+    <string name="textView_vin">vin：</string>
+    <string name="textView_type">车型：</string>
+    <string name="editView_type">请输入车型</string>
+</resources>
